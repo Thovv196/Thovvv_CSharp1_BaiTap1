@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.33711.374
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thovvv_CSharp1_BaiTap1", "Thovvv_CSharp1_BaiTap1\Thovvv_CSharp1_BaiTap1.csproj", "{ABB1FA55-3755-44B9-B961-97F2E3FE0119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thovv_CSharp1_BaiTap2", "Thovv_CSharp1_BaiTap2\Thovv_CSharp1_BaiTap2.csproj", "{9B1F4652-8DDB-464B-BB58-81484A553D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thovvv_CSharp2_BaiTap1", "Thovvv_CSharp2_BaiTap1\Thovvv_CSharp2_BaiTap1.csproj", "{19B2ACC6-2307-4489-B190-E6277A0A1601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ABB1FA55-3755-44B9-B961-97F2E3FE0119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB1FA55-3755-44B9-B961-97F2E3FE0119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB1FA55-3755-44B9-B961-97F2E3FE0119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1F4652-8DDB-464B-BB58-81484A553D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1F4652-8DDB-464B-BB58-81484A553D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1F4652-8DDB-464B-BB58-81484A553D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1F4652-8DDB-464B-BB58-81484A553D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B2ACC6-2307-4489-B190-E6277A0A1601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B2ACC6-2307-4489-B190-E6277A0A1601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B2ACC6-2307-4489-B190-E6277A0A1601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B2ACC6-2307-4489-B190-E6277A0A1601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
